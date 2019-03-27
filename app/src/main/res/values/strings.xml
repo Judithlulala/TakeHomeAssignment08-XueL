@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Teen Time</string>
+    <string name="saveArticle">Save This Article</string>
+    <string name="Article_1">This is the first article.</string>
+    <string name="Article_2">This is the second article.</string>
+    <string name="Article_3">This is the third article.</string>
+    <string name="Article_4">This is the fourth article.</string>
+    <string name="Article_5">This is the fifth article.</string>
+    <string name="Article_6">This is the sixth article.</string>
+    <string name="Article_7">This is the seventh article.</string>
+    <string name="Article_8">This is the eighth article.</string>
+
+</resources>
